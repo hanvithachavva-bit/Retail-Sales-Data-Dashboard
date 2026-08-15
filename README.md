@@ -1,8 +1,10 @@
-\# Retail Sales Data Dashboard
+![Retail Sales Dashboard](dashboard-preview.png.jpeg)
+
+# Retail Sales Data Dashboard
 
 
 
-\## 📊 Project Overview
+## 📊 Project Overview
 
 
 
@@ -14,87 +16,76 @@ The dashboard allows users to interact with the data using filters such as Year,
 
 
 
-\## 🎯 Objectives
+## 🎯 Objectives
 
 
 
-\- Analyze overall sales and profit performance
+- Analyze overall sales and profit performance
 
-\- Compare sales across different regions
+- Compare sales across different regions
 
-\- Analyze sales by product category
+- Analyze sales by product category
 
-\- Identify profitable and less profitable sub-categories
+- Identify profitable and less profitable sub-categories
 
-\- Track sales and profit trends over time
+- Track sales and profit trends over time
 
-\- Provide an interactive dashboard for business analysis
-
-
-
-\## 🛠️ Tools \& Technologies
+- Provide an interactive dashboard for business analysis
 
 
 
-\- Power BI
-
-\- Microsoft Excel
-
-\- Data Visualization
-
-\- DAX
-
-\- Git \& GitHub
+## 🛠️ Tools \& Technologies
 
 
 
-\## 📈 Dashboard Features
+- Power BI
+
+- Microsoft Excel
+
+- Data Visualization
+
+- DAX
+
+- Git \& GitHub
 
 
-
-\- Total Sales KPI
-
-\- Total Profit KPI
-
-\- Total Orders KPI
-
-\- Total Quantity KPI
-
-\- Profit Margin
-
-\- Sales Growth Rate
-
-\- Sales \& Profit trend analysis
-
-\- Sales by Region
-
-\- Sales by Category
-
-\- Profit by Sub-Category
-
-\- Interactive Year, Region, Category and Segment filters
+## 📈 Dashboard Features
 
 
+- Total Sales KPI
 
-\## 📊 Dashboard Preview
+- Total Profit KPI
+
+- Total Orders KPI
+
+- Total Quantity KPI
+
+- Profit Margin
+
+- Sales Growth Rate
+
+- Sales \& Profit trend analysis
+
+- Sales by Region
+
+- Sales by Category
+
+- Profit by Sub-Category
+
+- Interactive Year, Region, Category and Segment filters
 
 
-
-\*Dashboard screenshot will be added here.\*
-
+## 📊 Dashboard Preview
 
 
-\## 📁 Project Files
+*Dashboard screenshot will be added here.\*
 
 
+## 📁 Project Files
 
-\- `Retail\_Sales\_Data\_Dashboard.pbix` — Power BI dashboard
+- `Retail\_Sales\_Data\_Dashboard.pbix` — Power BI dashboard
 
-
-
-\## 👩‍💻 Author
-
-
+## 👩‍💻 Author
 
 Hanvitha Reddy
 
