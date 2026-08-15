@@ -1,4 +1,4 @@
-![Retail Sales Dashboard](dashboard-preview.png.jpeg)
+![Retail Sales Dashboard](dashboard-preview.jpeg)
 
 # Retail Sales Data Dashboard
 
