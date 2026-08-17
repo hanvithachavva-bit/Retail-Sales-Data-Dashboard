@@ -6,7 +6,7 @@
 
 An end-to-end retail sales analysis project using SQL, Microsoft Excel, and Power BI to analyze sales performance and provide insights into sales, profit, orders, quantity, and growth.
 
-The dashboard allows users to interact with the data using filters such as Year, Region, Category, and Segment.
+The dashboards allow users to interact with the data using filters such as Year, Region, Category, and Segment.
 
 ## 🎯 Objectives
 
