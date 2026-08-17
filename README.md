@@ -46,8 +46,44 @@ The dashboard allows users to interact with the data using filters such as Year,
 - The overall profit margin is **12.47%**.
 - Sales growth is **46.88%**, indicating strong sales growth.
 
-## 🛠️ Tools & Technologies
 
+- ## 🛠️ Analysis Workflow
+
+The project follows an end-to-end data analytics workflow:
+
+1. **SQL Analysis** – Data querying, aggregation, filtering, and analysis.
+2. **Excel Dashboard** – Interactive dashboard using PivotTables, PivotCharts, and slicers.
+3. **Power BI Dashboard** – Interactive visual analysis using Power BI and DAX.
+4. **Business Insights** – Identification of sales, profit, regional, category, segment, and growth trends.
+
+## 📊 Excel Dashboard
+
+The Excel dashboard provides interactive analysis of:
+
+- Sales and Profit by Category
+- Sales and Profit by Region
+- Sales and Profit by Segment
+- Monthly Sales Trend
+- Interactive filters for Region, Category, Segment, and Year
+
+Excel dashboard file:
+
+`Retail_Sales_Excel_Dashboard.xlsx`
+
+## 🗄️ SQL Analysis
+
+SQL was used to analyze the retail dataset and derive business-level insights through:
+
+- Data filtering and aggregation
+- Grouping and sorting
+- Sales and profit analysis
+- Regional and category-level analysis
+- Business performance analysis
+
+## 🔧 Tools & Technologies
+
+- SQL
+- Microsoft Excel
 - Power BI
 - DAX
 - Data Visualization
@@ -55,6 +91,7 @@ The dashboard allows users to interact with the data using filters such as Year,
 
 ## 📁 Project Files
 
-- `Retail_Sales_Data_Dashboard.pbix` — Power BI dashboard file
-- `dashboard-preview.jpeg` — Dashboard preview
-- `README.md` — Project documentation
+- `Retail_Sales_Data_Dashboard.pbix` – Power BI dashboard
+- `Retail_Sales_Excel_Dashboard.xlsx` – Excel dashboard
+- `dashboard-preview.jpeg` – Power BI dashboard preview
+- `README.md` – Project documentation
