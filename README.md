@@ -4,7 +4,7 @@
 
 ## 📊 Project Overview
 
-An interactive Power BI dashboard designed to analyze retail sales performance and provide insights into sales, profit, orders, quantity, and growth.
+An end-to-end retail sales analysis project using SQL, Microsoft Excel, and Power BI to analyze sales performance and provide insights into sales, profit, orders, quantity, and growth.
 
 The dashboard allows users to interact with the data using filters such as Year, Region, Category, and Segment.
 
@@ -47,7 +47,7 @@ The dashboard allows users to interact with the data using filters such as Year,
 - Sales growth is **46.88%**, indicating strong sales growth.
 
 
-- ## 🛠️ Analysis Workflow
+## 🛠️ Analysis Workflow
 
 The project follows an end-to-end data analytics workflow:
 
@@ -86,6 +86,7 @@ SQL was used to analyze the retail dataset and derive business-level insights th
 - Microsoft Excel
 - Power BI
 - DAX
+- PivotTables & PivotCharts
 - Data Visualization
 - Data Analysis
 
